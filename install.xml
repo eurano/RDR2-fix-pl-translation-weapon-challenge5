@@ -1,0 +1,14 @@
+<EasyInstall>
+    <Name>Challenge 5 Objective Description Fix</Name>
+    <Author>eurano</Author>
+    <Version>1.0.0</Version>
+    <Link></Link>
+    <Metadata>
+    </Metadata>
+
+    <Resources>
+        <Resource>
+            <DataFile>challenge5Objective.gxt2</DataFile>
+        </Resource>
+    </Resources>
+</EasyInstall>
