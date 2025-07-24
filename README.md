@@ -10,6 +10,6 @@ To install fix:
 or compile .oxt file using gxt2:
 https://github.com/lollolong/gxt2
 
-2. In lml folder create folder "Challenge 2 Objective Description Fix" and put both files there: challenge5Objective.gxt2 , install.xml
+2. In lml folder create folder "Challenge 5 Objective Description Fix" and put both files there: challenge5Objective.gxt2 , install.xml
 
 <img width="2404" height="1068" alt="IMAGE" src="https://github.com/user-attachments/assets/a3bae1bb-5acf-4132-8d36-46d791ac3d4b" />
